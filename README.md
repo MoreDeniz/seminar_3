@@ -1,8 +1,7 @@
 # Описание разметки файла README.md
 Для описания проектов на GitHub используется README.md, который пишется на языке разметки markdown. Что и как поддерживается расписано ниже. Также существует еще один формат - [reStructuredText](https://github.com/GnuriaN/format-README/blob/master/README.rst), описание которого вынесено в отдельный файл `README.rst`.
 ____
-## Использование эмодзи (emoji)
-В самом тексте можно использовать эмодзи, например написать вот так:    
+## Using эмодзи    
 :white_check_mark: Это уже сделано    
 :negative_squared_cross_mark: Я не буду это делать    
 :black_square_button: делать или не делать, вот в чем вопрос?    
